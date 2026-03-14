@@ -1,0 +1,9 @@
+*.asv
+*.m~
+*.slxc
+*.mex*
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+resources/
